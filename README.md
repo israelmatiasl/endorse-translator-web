@@ -98,12 +98,3 @@ Nota: la app puede correr con `npm run dev` porque Vite resuelve SFCs en tiempo 
   }
 }
 ```
-
-## Contribuir
-
-- Abre un issue o PR describiendo el cambio.
-- Para código, crea ramas con nombres descriptivos y agrega pruebas mínimas si modificas lógica.
-
----
-
-Si quieres, puedo añadir también una sección corta con ejemplos de uso de `src/services/endorseService.ts` o generar un `README` traducido al inglés. ¿Quieres que actualice el `package.json` con el script `type-check` si aún no existe?
